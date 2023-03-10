@@ -4,6 +4,10 @@ Progamador Full Satck Jr, profissional com  habilidade  em desenvolvimento web .
 
 
 
-[![DanielAnderson GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![DanielAnderson GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![DanielAnderson GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=danielandersonBC96&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![DanielAnderson GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=danielandersonBC96&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+#TECNOLOGIAS 
+[![HTML] (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ]
+
 
