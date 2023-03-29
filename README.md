@@ -6,7 +6,7 @@
   </h1>
 
 Progamador Full Satck Jr, profissional com  habilidade  em desenvolvimento web . Conhecimento em React js e Typescprit , Javascript e Css  no front end  .Noções de Docker e Orquestração  de Kurbentes  e bancos de dados Mysql experiencia  utilizando a plataforma DBeaver  e Phyton com desenvolvimento em django e flask . Possui conhecimento em Gestão de Projetos e SCRUM  possui habilidades no manuseio da  plataforma Jira Software.Profissional proativo com o foco em produtividade e melhorias para ajudar o time nas atividades que foram referenciadas a ele  e esta sempre  animado  em ajudar os demais colegas em suas atividades. 
-
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielandersonBC96&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
 
 
 <h1 >Tecnoligias Front   ⚒ 💻  </h1>
