@@ -9,6 +9,11 @@
 </h1>
 
 
+<p align="center">
+  <img src="https://github.com/Patricia-Bandeira/Patricia-Bandeira/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+
 
 <p align="center">
   <a href="https://danielanderson.vercel.app/" target="_blank">
