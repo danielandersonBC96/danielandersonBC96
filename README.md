@@ -9,7 +9,16 @@
 </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desenvolvedor+Full+Stack+Pleno;React+%7C+TypeScript+%7C+Python+%7C+Django;Foco+em+produtividade+e+colaboração!" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://danielanderson.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Acessar%20Portf%C3%B3lio-black?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://github.com/danielandersonBC96/sistema-delivery">
+    <img src="https://img.shields.io/badge/🍔%20Ver%20Sistema%20Delivery-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -21,15 +30,6 @@ Tenho experiência com **React.js**, **TypeScript**, **Python**, **Django**, **F
 
 Gosto de contribuir com boas práticas, ajudar o time e sempre aprender algo novo.  
 Estou sempre animado para colaborar com projetos que fazem a diferença 🚀
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielandersonBC96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielandersonBC96&layout=compact&langs_count=10&theme=dracula"/>
-</div>
 
 ---
 
@@ -67,7 +67,15 @@ Estou sempre animado para colaborar com projetos que fazem a diferença 🚀
 
 ---
 
-## 🏆 Trophies
+## 📌 Projetos em Destaque
+
+- 🔗 [Sistema de Delivery com Painel Admin](https://github.com/danielandersonBC96/sistema-delivery)  
+- 🔗 [API Bancária com GraphQL e Pix](https://github.com/danielandersonBC96/api-bancaria-pix)  
+- 🔗 [Dashboard com WebSocket e Filtros](https://github.com/danielandersonBC96/admin-dashboard-orders)  
+
+---
+
+## 🏆 GitHub Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=danielandersonBC96&theme=dracula&row=2&column=4&no-frame=true&margin-w=15"/>
@@ -83,18 +91,39 @@ Estou sempre animado para colaborar com projetos que fazem a diferença 🚀
 
 ---
 
-## 📌 Projetos em Destaque
+## 📽️ Demonstração Rápida (GIF)
 
-- 🔗 [Sistema de Delivery com Painel Admin](https://github.com/danielandersonBC96/sistema-delivery)  
-- 🔗 [API Bancária com GraphQL e Pix](https://github.com/danielandersonBC96/api-bancaria-pix)  
-- 🔗 [Dashboard com WebSocket e Filtros](https://github.com/danielandersonBC96/admin-dashboard-orders)  
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="500"/>
+</p>
 
 ---
 
-## 🌍 Idiomas
+## 📈 Estatísticas GitHub
 
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Técnico Intermediário
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielandersonBC96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielandersonBC96&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
+---
+
+## 🎮 Zona de Jogos
+
+<p align="center">
+  <a href="https://playsnake.org" target="_blank">🐍 <b>Clique aqui para jogar Snake</b></a><br />
+  <a href="https://danielandersonBC96.github.io/ping-pong-game" target="_blank">🏓 <b>Jogue Pong com seu nome</b></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKHyk3H87T9cQzq/giphy.gif" width="300"/>
+</p>
+
+### 👾 Status do Jogador
+
+![Level](https://img.shields.io/badge/Nível-99%2F100-green?style=for-the-badge&logo=visualstudio)
+![XP](https://img.shields.io/badge/XP-5420%2F5500-blue?style=for-the-badge&logo=opencollective)
+![Missão](https://img.shields.io/badge/Missão-Resolver%20bugs%20críticos-critical?style=for-the-badge&logo=vercel)
 
 ---
 
@@ -113,11 +142,17 @@ Estou sempre animado para colaborar com projetos que fazem a diferença 🚀
 
 ---
 
-## 📈 Gráfico de Atividades
+## 📚 Easter Egg Técnico
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielandersonBC96&theme=dracula&hide_border=true"/>
-</p>
+<details>
+<summary>🧠 Dica oculta: como deixar seu projeto com cara de produto real?</summary>
+
+- ✅ Tenha uma demo online
+- ✅ Mostre um GIF de uso
+- ✅ Tenha uma documentação de API (Postman ou Swagger)
+- ✅ Faça deploy com automação (CI/CD)
+- ✅ Testes automatizados mesmo que simples
+</details>
 
 
 
