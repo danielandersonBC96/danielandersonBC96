@@ -8,9 +8,7 @@
   <a href="https://www.linkedin.com/in/daniel-anderson-739bb31a9/" target="_blank">Daniel Anderson 😃</a>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desenvolvedor+Full+Stack+Pleno;React+%7C+TypeScript+%7C+Python+%7C+Django;Foco+em+produtividade+e+colaboração!" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://danielanderson.vercel.app/" target="_blank">
@@ -83,19 +81,10 @@ Estou sempre animado para colaborar com projetos que fazem a diferença 🚀
 
 ---
 
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielandersonBC96/danielandersonBC96/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
-## 📽️ Demonstração Rápida (GIF)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="500"/>
-</p>
 
 ---
 
