@@ -1,16 +1,30 @@
-
-### Hi there 👋🏿
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+</p>
 
 <h1 align="center">
-  Oi, tudo bem? Eu sou o 
+  Oi, tudo bem? Eu sou o  
   <a href="https://www.linkedin.com/in/daniel-anderson-739bb31a9/" target="_blank">Daniel Anderson 😃</a>
 </h1>
 
-Sou um **Desenvolvedor Full Stack Pleno**, apaixonado por resolver problemas com código e criar soluções escaláveis. Trabalho com **React.js, TypeScript, Python, Django, Flask, Docker e mais**. 
-
-Gosto de colaborar com equipes ágeis, aplicar boas práticas e buscar sempre a melhoria contínua. 💪🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desenvolvedor+Full+Stack+Pleno;React+%7C+TypeScript+%7C+Python+%7C+Django;Foco+em+produtividade+e+colaboração!" alt="Typing SVG" />
+</p>
 
 ---
+
+## 👨🏿‍💻 Sobre Mim
+
+Sou um **Desenvolvedor Full Stack Pleno**, apaixonado por resolver problemas com código e criar soluções eficientes e escaláveis.  
+Tenho experiência com **React.js**, **TypeScript**, **Python**, **Django**, **Flask**, **Docker**, **MySQL**, entre outras ferramentas.
+
+Gosto de contribuir com boas práticas, ajudar o time e sempre aprender algo novo.  
+Estou sempre animado para colaborar com projetos que fazem a diferença 🚀
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielandersonBC96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +33,7 @@ Gosto de colaborar com equipes ágeis, aplicar boas práticas e buscar sempre a 
 
 ---
 
-## 🧠 Tecnologias que utilizo
+## 🛠️ Tecnologias
 
 ### 🚀 Front-end
 <div>
@@ -42,7 +56,7 @@ Gosto de colaborar com equipes ágeis, aplicar boas práticas e buscar sempre a 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-### 🧰 Ferramentas e DevOps
+### 🧰 DevOps e Ferramentas
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -53,41 +67,34 @@ Gosto de colaborar com equipes ágeis, aplicar boas práticas e buscar sempre a 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danielandersonBC96&theme=dracula&row=1&no-frame=true&margin-w=20"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=danielandersonBC96&theme=dracula&row=2&column=4&no-frame=true&margin-w=15"/>
 </p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielandersonBC96/danielandersonBC96/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🔗 [Sistema de Delivery com Painel Admin](https://github.com/danielandersonBC96/sistema-delivery)  
+- 🔗 [API Bancária com GraphQL e Pix](https://github.com/danielandersonBC96/api-bancaria-pix)  
+- 🔗 [Dashboard com WebSocket e Filtros](https://github.com/danielandersonBC96/admin-dashboard-orders)  
 
 ---
 
 ## 🌍 Idiomas
 
-- 🇧🇷 Português (nativo)
-- 🇺🇸 Inglês (intermediário técnico)
-
----
-
-## ✨ Frase do Dia
-
-> "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
-
----
-
-## 📈 Atividade Recentes
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielandersonBC96&theme=dracula&hide_border=true"/>
-</p>
-
----
-
-## 📊 GitHub Status
-
-![GitHub repo size](https://img.shields.io/github/repo-size/danielandersonBC96/danielandersonBC96)
-![GitHub last commit](https://img.shields.io/github/last-commit/danielandersonBC96/danielandersonBC96)
-![GitHub license](https://img.shields.io/github/license/danielandersonBC96/danielandersonBC96)
-![Profile views](https://komarev.com/ghpvc/?username=danielandersonBC96&style=flat-square&color=blue)
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Técnico Intermediário
 
 ---
 
@@ -96,9 +103,21 @@ Gosto de colaborar com equipes ágeis, aplicar boas práticas e buscar sempre a 
 <a href="mailto:dev.danielanderson@gmail.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/daniel-anderson-739bb31a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wa.me/5592982869627" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://danielanderson.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ---
 
+## ✨ Frase do Dia
+
+> _"A melhor maneira de prever o futuro é criá-lo."_ – Peter Drucker
+
+---
+
+## 📈 Gráfico de Atividades
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielandersonBC96&theme=dracula&hide_border=true"/>
+</p>
 
 
 
