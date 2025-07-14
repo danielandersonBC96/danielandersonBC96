@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desenvolvedor+Full+Stack+Pleno;React+%7C+TypeScript+%7C+Python+%7C+Django;Foco+em+produtividade+e+colaboração!" alt="Typing SVG" />
+
 </p>
 
 ---
